@@ -1,7 +1,7 @@
 {
   "name": "test-form",
   "version": "0.1.0",
-  "homepage": "https://github.com/Dimitry-prog/test-form/",
+  "homepage": "https://dimitry-prog.github.io/test-form/",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
