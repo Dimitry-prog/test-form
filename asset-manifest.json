@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Dimitry-prog/test-form/static/css/main.d8f528dd.css",
-    "main.js": "/Dimitry-prog/test-form/static/js/main.22a52367.js",
+    "main.js": "/Dimitry-prog/test-form/static/js/main.9dbc27fb.js",
     "index.html": "/Dimitry-prog/test-form/index.html",
     "main.d8f528dd.css.map": "/Dimitry-prog/test-form/static/css/main.d8f528dd.css.map",
-    "main.22a52367.js.map": "/Dimitry-prog/test-form/static/js/main.22a52367.js.map"
+    "main.9dbc27fb.js.map": "/Dimitry-prog/test-form/static/js/main.9dbc27fb.js.map"
   },
   "entrypoints": [
     "static/css/main.d8f528dd.css",
-    "static/js/main.22a52367.js"
+    "static/js/main.9dbc27fb.js"
   ]
 }
