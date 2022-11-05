@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Dimitry-prog/test-form/static/css/main.d8f528dd.css",
-    "main.js": "/Dimitry-prog/test-form/static/js/main.9dbc27fb.js",
-    "index.html": "/Dimitry-prog/test-form/index.html",
-    "main.d8f528dd.css.map": "/Dimitry-prog/test-form/static/css/main.d8f528dd.css.map",
-    "main.9dbc27fb.js.map": "/Dimitry-prog/test-form/static/js/main.9dbc27fb.js.map"
+    "main.css": "/test-form/static/css/main.d8f528dd.css",
+    "main.js": "/test-form/static/js/main.9dbc27fb.js",
+    "index.html": "/test-form/index.html",
+    "main.d8f528dd.css.map": "/test-form/static/css/main.d8f528dd.css.map",
+    "main.9dbc27fb.js.map": "/test-form/static/js/main.9dbc27fb.js.map"
   },
   "entrypoints": [
     "static/css/main.d8f528dd.css",
