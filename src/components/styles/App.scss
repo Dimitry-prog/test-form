@@ -1,0 +1,14 @@
+@import "./reset";
+@import "./fonts";
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(120grad, #643986, #98aed5);
+}
+
